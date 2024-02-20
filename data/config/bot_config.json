@@ -1,0 +1,14 @@
+[
+  {
+    "proxySecret": "vs-2", 
+    "cozeBotId": "1209421467142594580", 
+    "model": "GPT-4-Turbo-128k", 
+    "channelId": "1203582591333179415"
+  },
+  {
+    "proxySecret": "vs-3",
+    "cozeBotId": "1209422628025016350",
+    "model": "GPT-4-Turbo-128k", 
+    "channelId": "1203582591333179415"
+  }
+]
